@@ -1,0 +1,18 @@
+Project idea:
+
+Datasets:
+Actors and the movies they stared in dataset from IMDB
+Reviews for movies
+(Sentiment of words dataset)
+
+Methods used:
+Social graphs
+Clustering 
+Sentiment analysis
+
+Idea:
+Actors star in many movies and the actors can be linked by the movies they starred in.
+Now clustering can be made upon the actors.
+Sentiment score for each actor can be calculated with sentiment analysis on the reviews.
+    -If titles are not obtainable in the reviews, then sentiment can be calculated on the movie description itself.
+Similarity in reviews
